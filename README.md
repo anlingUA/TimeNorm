@@ -1,4 +1,4 @@
-# TimeNorm
+
 # TimeNorm: Normalization for time-series microbial count data
 
 TimeNorm.R: the main function of TimeNorm method. 
