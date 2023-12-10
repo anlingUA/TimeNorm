@@ -1,7 +1,8 @@
 # TimeNorm
-TimeNorm: Normalization for time-series microbial count data
+# TimeNorm: Normalization for time-series microbial count data
 
 TimeNorm.R: the main function of TimeNorm method. 
+
 raida.R: the function of RAIDA method, which is called in TimeNorm.
 
 Example.R: Example R code to show how to conduct the new normalization method TimeNorm for time series microbial count data.
